@@ -1,0 +1,21 @@
+.clase00{
+    border: 1px solid gray;
+    margin:10px;
+    padding: 10px
+}
+
+.clase01 {
+    background-color:black;
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+
+  
+}
+
+.clase02 {
+    background-color: dodgerblue;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
